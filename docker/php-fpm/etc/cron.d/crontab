@@ -1,2 +1,0 @@
-* * * * * /usr/local/bin/php /var/www/deer.local/api/artisan schedule:run >> /var/log/cron.log 2>&1
-* * * * * /usr/local/bin/php /var/www/payment.local/artisan schedule:run >> /var/log/cron.log 2>&1
